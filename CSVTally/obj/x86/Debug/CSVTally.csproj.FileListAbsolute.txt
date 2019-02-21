@@ -1,0 +1,6 @@
+/Users/cutopia/Projects/CSVTally/CSVTally/bin/Debug/CSVTally.exe
+/Users/cutopia/Projects/CSVTally/CSVTally/bin/Debug/CSVTally.pdb
+/Users/cutopia/Projects/CSVTally/CSVTally/obj/x86/Debug/CSVTally.csprojAssemblyReference.cache
+/Users/cutopia/Projects/CSVTally/CSVTally/obj/x86/Debug/CSVTally.csproj.CoreCompileInputs.cache
+/Users/cutopia/Projects/CSVTally/CSVTally/obj/x86/Debug/CSVTally.exe
+/Users/cutopia/Projects/CSVTally/CSVTally/obj/x86/Debug/CSVTally.pdb
